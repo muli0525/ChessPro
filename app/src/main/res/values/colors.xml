@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础颜色 -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- 棋盘颜色 -->
+    <color name="board_background">#FFDEB887</color>
+    <color name="board_line">#FF000000</color>
+    <color name="board_river">#FF87CEEB</color>
+    
+    <!-- 棋子颜色 -->
+    <color name="piece_red_background">#FFFFCC80</color>
+    <color name="piece_red_foreground">#FFD32F2F</color>
+    <color name="piece_black_background">#FFE0E0E0</color>
+    <color name="piece_black_foreground">#FF212121</color>
+    
+    <!-- 高亮颜色 -->
+    <color name="highlight_selected">#FFFFEB3B</color>
+    <color name="highlight_suggestion">#FF4CAF50</color>
+    <color name="highlight_possible">#80000000</color>
+    
+    <!-- 主题颜色 -->
+    <color name="primary">#FF1976D2</color>
+    <color name="primary_variant">#FF1565C0</color>
+    <color name="secondary">#FFFFC107</color>
+    <color name="secondary_variant">#FFFFA000</color>
+    <color name="background">#FFFAFAFA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="error">#FFB00020</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_background">#FF000000</color>
+    <color name="on_surface">#FF000000</color>
+    <color name="on_error">#FFFFFFFF</color>
+    
+    <!-- 暗色主题 -->
+    <color name="primary_dark">#FF90CAF9</color>
+    <color name="primary_variant_dark">#FF64B5F6</color>
+    <color name="secondary_dark">#FFFFD54F</color>
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="on_primary_dark">#FF000000</color>
+    <color name="on_background_dark">#FFFFFFFF</color>
+    <color name="on_surface_dark">#FFFFFFFF</color>
+</resources>
